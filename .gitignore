@@ -5,3 +5,11 @@ db.sqlite3
 rest_framework/__init__.pyc
 rest_framework/settings.pyc
 rest_framework/urls.pyc
+rest_framework/wsgi.pyc
+django_rest_framework/settings.pyc
+django_rest_framework/__init__.pyc
+django_rest_framework/urls.pyc
+django_rest_framework/wsgi.pyc
+rest_api/serializers.pyc
+rest_api/urls.pyc
+rest_api/views.pyc
